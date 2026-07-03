@@ -1,0 +1,23 @@
+style/web/components/descriptions/_index.less
+  s_92828a6483986f::t_6e12691be43250 23-24,32-38,40-45,52-72
+style/web/components/descriptions/_var.less
+  s_92828a6483986f::t_9c6674fffd8d6c 13-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "7b7971ce559396736e4485765e6786fe374fe584",
+  "prompts": {},
+  "sessions": {
+    "s_92828a6483986f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f26b5-dcfb-7001-a32f-aafbd820ecd5",
+        "model": "unknown"
+      },
+      "human_author": "ceilf6 <3506456886@qq.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
