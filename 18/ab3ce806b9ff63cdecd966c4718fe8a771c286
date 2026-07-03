@@ -1,0 +1,21 @@
+style/web/components/switch/_var.less
+  s_6d4111d05b2fb9::t_8386c48055fbc2 75-79
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "18ab3ce806b9ff63cdecd966c4718fe8a771c286",
+  "prompts": {},
+  "sessions": {
+    "s_6d4111d05b2fb9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f26ab-2ca3-7273-b819-69bb36d4bb35",
+        "model": "unknown"
+      },
+      "human_author": "ceilf6 <3506456886@qq.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
